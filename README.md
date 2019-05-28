@@ -1,2 +1,0 @@
-# temperatureConverter
-Created with CodeSandbox
